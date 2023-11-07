@@ -11,7 +11,7 @@ h1 {
     padding: 20px 0;
 }
 
-#btnAdd {
+.List {
     display: block;
     width: 200px;
     height: 50px;
